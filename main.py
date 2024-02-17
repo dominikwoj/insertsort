@@ -22,10 +22,11 @@ def insert_sort(in_t):
     return out_t
 
 
-if __name__ == '__main__':
-    import doctest
-
-    doctest.testmod()
+# if __name__ == '__main__':
+    # import doctest
+    #
+    # doctest.testmod()
     # import random
     #
     # print(insert_sort([random.randint(1, 100) for i in range(1, 10000)]))
+
